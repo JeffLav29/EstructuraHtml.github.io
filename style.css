@@ -1,0 +1,56 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 20px;
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+}
+
+.encabezado1{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    padding-bottom: 110px;
+    border: 2px solid #ffffff;
+}
+
+.encabezado2{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border: 2px solid #ffffff;
+}
+
+.contenido{
+    display: flex;
+    justify-content: space-between;
+    gap: 2%;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.izquierda{
+    text-align: center;
+    border: 2px solid #ffffff;
+    width: 50%;
+}
+
+.derecha{
+    text-align: center;
+    border: 2px solid #ffffff;
+    width: 50%;
+}
+
+.respuesta{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    border: 2px solid #ffffff;
+    
+}
